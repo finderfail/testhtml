@@ -1,0 +1,122 @@
+.background-base {
+    background-color: aqua;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    border-radius: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    text-transform: capitalize;
+}
+
+img {
+    padding-top: 10px;
+    height: 185px;
+    width: 185px;
+    align-self: center;
+}
+
+.left-2 {
+    margin-left: 300px;
+    margin-top: -300px;
+}
+
+.left-3 {
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+.testItem {
+  display: inline-block;
+}
+
+.menus ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.menu {
+  display: inline-block;
+}
+
+.menu a {
+  position: relative;
+}
+
+.header-background {
+    background-color: aquamarine;
+    margin: 0;
+    margin-bottom: 25px;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+#little {
+    height: 48px;
+    width: 48px;
+    padding: 0;
+    position: absolute;
+    right: 1618px;
+    top: 14px;
+}
+
+button {
+    color: black;
+    background-color: cyan;
+    border-radius: 16px;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+#user {
+    position: absolute;
+    right: 140px;
+    top: 30px;
+    font-size: 16px;
+}   
+
+#logout {
+    position: absolute;
+    right: 30px;
+    top: 25px;
+}  
+
+#company {
+    position: absolute;
+    right: 1505px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    top: 25px;
+    font-size: 22px;
+} 
+
+#ring {
+    height: 32px;
+    width: 32px;
+    padding: 0;
+    position: absolute;
+    right: 100px;
+    top: 22px;
+}
+
+#avatar {
+    height: 48px;
+    width: 48px;
+    padding: 0;
+    position: absolute;
+    right: 250px;
+    top: 15px;
+    border-radius: 32px;
+}
