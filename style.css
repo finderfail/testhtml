@@ -24,6 +24,10 @@ img {
     align-self: center;
 }
 
+body {
+    background-color: grey;
+}
+
 .left-2 {
     margin-left: 300px;
     margin-top: -300px;
@@ -31,6 +35,14 @@ img {
 
 .left-3 {
     margin-left: 600px;
+    margin-top: -300px;
+}
+.left-4 {
+    margin-left: 900px;
+    margin-top: -300px;
+}
+.left-5 {
+    margin-left: 1200px;
     margin-top: -300px;
 }
 
